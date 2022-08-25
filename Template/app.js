@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/Jihagsa_Build.loader.js";
+    var loaderUrl = buildUrl + "/5-2.loader.js";
     var config = {
-        dataUrl: buildUrl + "/Jihagsa_Build.data",
-        frameworkUrl: buildUrl + "/Jihagsa_Build.framework.js",
-        codeUrl: buildUrl + "/Jihagsa_Build.wasm",
+        dataUrl: buildUrl + "/5-2.data.unityweb",
+        frameworkUrl: buildUrl + "/5-2.framework.js.unityweb",
+        codeUrl: buildUrl + "/5-2.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Jihagsa",
