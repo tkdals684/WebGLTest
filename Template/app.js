@@ -2,14 +2,14 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/WebGLBuild.loader.js";
+    var loaderUrl = buildUrl + "/13.loader.js";
     var config = {
-        dataUrl: buildUrl + "/WebGLBuild.data",
-        frameworkUrl: buildUrl + "/WebGLBuild.framework.js",
-        codeUrl: buildUrl + "/WebGLBuild.wasm",
+        dataUrl: buildUrl + "/13.data",
+        frameworkUrl: buildUrl + "/13.framework.js",
+        codeUrl: buildUrl + "/13.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
-        productName: "WebglTest",
+        productName: "Jihagsa",
         productVersion: "0.1",
     };
 
