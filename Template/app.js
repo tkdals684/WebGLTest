@@ -9,7 +9,7 @@
         codeUrl: buildUrl + "/WebBuild.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
-        productName: "Test",
+        productName: "Jihagsa",
         productVersion: "0.1",
     };
 
