@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/WebBuild2.loader.js";
+    var loaderUrl = buildUrl + "/WebGLTest.loader.js";
     var config = {
-        dataUrl: buildUrl + "/WebBuild2.data",
-        frameworkUrl: buildUrl + "/WebBuild2.framework.js",
-        codeUrl: buildUrl + "/WebBuild2.wasm",
+        dataUrl: buildUrl + "/WebGLTest.data",
+        frameworkUrl: buildUrl + "/WebGLTest.framework.js",
+        codeUrl: buildUrl + "/WebGLTest.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Jihagsa",
